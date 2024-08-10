@@ -1,0 +1,15 @@
+{
+  "name": "swadhin-qa-automation-engineer-assignment",
+  "version": "1.0.0",
+  "description": "This repo features a frontend and backend automation framework for the Senior QA Engineer role. It automates product searches, purchase flows, and price comparisons on e-commerce sites like Amazon and Flipkart. Includes performance and security tests. Check the README for setup and instructions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.46.0"
+  }
+}
